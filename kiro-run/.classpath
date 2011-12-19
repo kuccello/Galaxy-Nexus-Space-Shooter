@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/kuccello/Development/Tools/libgdx-nightly-20111218/gdx-backend-jogl-natives.jar"/>
+	<classpathentry kind="lib" path="/Users/kuccello/Development/Tools/libgdx-nightly-20111218/gdx-backend-jogl.jar"/>
+	<classpathentry kind="lib" path="/Users/kuccello/Development/Tools/libgdx-nightly-20111218/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="/Users/kuccello/Development/Tools/libgdx-nightly-20111218/gdx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
